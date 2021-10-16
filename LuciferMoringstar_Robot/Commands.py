@@ -112,7 +112,8 @@ async def start(bot, message):
             )
         )
     else:
-        await message.reply_text(
+        await message.reply_photo(
+            photo="https://telegra.ph/file/88669c96157742b54a695.jpg",
             START_MSG.format(message.from_user.mention),
             parse_mode="Markdown",
             disable_web_page_preview=True,
@@ -121,7 +122,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "🔎Search Here", switch_inline_query_current_chat=''
+                                "♂️Sᴇᴀʀᴄʜ Hᴇʀᴇ♂️", switch_inline_query_current_chat=''
                             ),
                         InlineKeyboardButton
                             (
@@ -135,7 +136,7 @@ async def start(bot, message):
                             ),
                         InlineKeyboardButton
                             (
-                                "About😉", callback_data="about"
+                                "😉 Aʙᴏᴜᴛ 😉", callback_data="about"
                             )
                     ]
                 ]
