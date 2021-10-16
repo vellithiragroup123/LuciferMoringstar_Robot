@@ -125,17 +125,17 @@ async def start(bot, message):
                             ),
                         InlineKeyboardButton
                             (
-                                "🤖More Botz", url="https://t.me/MT_Botz"
+                                "🔥 Gʀᴏᴜᴘ 🔥", url="https://t.me/joinchat/QL7s-lKVXKI5MmFl"
                             )
                     ],
                     [
                         InlineKeyboardButton
                             (
-                                "🤔Help", callback_data="help"
+                                "❤ Cʜᴀɴɴᴇʟ ❤ ", url="https://t.me/cinemaworldchannels"
                             ),
                         InlineKeyboardButton
                             (
-                                "About🤠", callback_data="about"
+                                "About😉", callback_data="about"
                             )
                     ]
                 ]
