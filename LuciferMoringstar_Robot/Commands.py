@@ -116,8 +116,8 @@ async def start(bot, message):
             photo="https://telegra.ph/file/88669c96157742b54a695.jpg",
             caption=START_MSG.format(message.from_user.mention),
             parse_mode="html",
-            disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
+            
                 [
                     [
                         InlineKeyboardButton
