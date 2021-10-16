@@ -33,15 +33,15 @@ HELP = """
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ Name : surya
     
-➥ Credits : Subin
+➥ Credits : shanimon
 
-➥ Editing : [Muhammed RK](t.me/Mrk_YT)
+➥ Editing : [This person](https://t.me/Lucifer_DevilZ)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Botowner : [Owner](https://t.me/Devilhackerjr)
 """
