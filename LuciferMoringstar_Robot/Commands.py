@@ -122,7 +122,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "♂️Sᴇᴀʀᴄʜ Hᴇʀᴇ♂️", switch_inline_query_current_chat=''
+                                "💞 Dᴇᴠ 💞", url="https://t.me/Lucifer_DevilZ''
                             ),
                         InlineKeyboardButton
                             (
