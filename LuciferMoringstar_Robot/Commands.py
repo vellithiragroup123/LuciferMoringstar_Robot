@@ -122,7 +122,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "💞Dᴇᴠ💞", url="https://t.me/Lucifer_DevilZ",
+                                "💞 Dᴇᴠ 💞", url="https://t.me/Lucifer_DevilZ",
                             ),
                         InlineKeyboardButton
                             (
@@ -132,7 +132,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "❤ Cʜᴀɴɴᴇʟ ❤ ", url="https://t.me/searchandtakemovieupdates"
+                                "❤ Cʜᴀɴɴᴇʟ ❤ ", url="https://t.me/joinchat/0doo715-PKs4M2I1"
                             ),
                         InlineKeyboardButton
                             (
