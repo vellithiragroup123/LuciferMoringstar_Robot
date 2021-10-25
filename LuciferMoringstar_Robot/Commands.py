@@ -132,7 +132,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "❤ Cʜᴀɴɴᴇʟ ❤ ", url="https://t.me/joinchat/0doo715-PKs4M2I1"
+                                "❤ Cʜᴀɴɴᴇʟ ❤ ", url="https://t.me/battleshipmovies"
                             ),
                         InlineKeyboardButton
                             (
