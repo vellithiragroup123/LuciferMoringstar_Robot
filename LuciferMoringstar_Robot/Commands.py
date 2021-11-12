@@ -122,7 +122,7 @@ async def start(bot, message):
                     [
                         InlineKeyboardButton
                             (
-                                "💞 Dᴇᴠ 💞", url="https://t.me/Lucifer_DevilZ",
+                                "💞 Dᴇᴠ 💞", url="https://t.me/Geronimo1234",
                             ),
                         InlineKeyboardButton
                             (
