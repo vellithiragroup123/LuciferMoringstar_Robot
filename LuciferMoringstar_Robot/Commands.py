@@ -349,7 +349,7 @@ async def bot_info(bot, message):
         [
             InlineKeyboardButton
                 (
-                     'Video', url=f'{TUTORIAL}'
+                     'Source', url=f'https://t.me/free_music123/22903'
                 )
         ]
     ]
