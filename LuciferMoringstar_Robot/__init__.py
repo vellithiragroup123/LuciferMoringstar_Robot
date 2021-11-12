@@ -26,22 +26,16 @@ HELP = """
 ➥ /total How Many Files Added In Database
 ➥ /logger  Get Logs
 ➥ /delete Delete File From Database
-
-<b>[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
-
-@Mo_Tech_YT></b>
 """
 
 ABOUT = """
-➥ Name : surya
+➥ Name : Allu Arjun
     
-➥ Credits : shanimon
-
-➥ Editing : [This person](https://t.me/Lucifer_DevilZ)
+➥ Credits : [Geronimo](https://t.me/Geronimo1234)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Bot Owner : [Owner](https://t.me/Devilhackerjr)
+➥ Bot Owner : [Shanimon](https://t.me/Cwassitatnt)
 """
